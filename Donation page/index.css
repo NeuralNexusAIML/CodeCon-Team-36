@@ -1,0 +1,38 @@
+.navbar-img{
+    size: 20px;
+}
+
+.navbar-color{
+    background-color: orange;
+}
+
+.nav-text{
+    font-size: 25px;
+    padding: 2px;
+    margin: 2px;
+}
+
+.main-head{
+    font-size: 40px;
+    padding-left: 200px;
+    padding-top: 200px;
+    font-size: 80px;
+    color: black;
+}
+
+.bg-class{
+    background-image: url("https://s-i.huffpost.com/gen/1101247/images/o-AFRICA-CHARITY-facebook.jpg");
+    background-size: cover;
+}
+
+.sub-para{
+    font-size: 20px;
+    padding-left: 30px;
+    padding: 5px;
+    color: white;
+    background-color: rgb(190, 144, 60);
+    width: 350px;
+    height: 40px;
+    margin-left: 210px;
+    font-weight: 600;
+}
